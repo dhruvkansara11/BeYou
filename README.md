@@ -1,6 +1,6 @@
 # 🛡️ BeYou – Secure Social Media Platform
 
-> A privacy-focused social platform developed for the IIIT-Delhi internal network. Built with Django, MySQL, and Docker for robust collaboration, secure messaging, and modular deployment.
+> A privacy-focused social platform developed for the internal network. Built with Django, MySQL, and Docker for robust collaboration, secure messaging, and modular deployment.
 
 ---
 
